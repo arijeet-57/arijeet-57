@@ -1,1 +1,1 @@
-On the verge of GREATNESS!!!
+Momentum = Mass x Velocity
