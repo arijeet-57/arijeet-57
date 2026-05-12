@@ -23,58 +23,6 @@ and the shadowed corridors where machines whisper.
 
 <p align="center">❦</p>
 
-## 📜 &nbsp; The Codex
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🕯 &nbsp; The Florence Engine
-*A cinematic memory-map of streets one once walked.*
-
-`Three.js` · `WebGL` · *the ghosts of architecture*
-
-<a href="https://github.com/arijeet-57/florence-engine">enter the manuscript →</a>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🗝 &nbsp; Watcher in the Wires
-*Field-notes from the dark craft — packets, ports, small alarms in the night.*
-
-`Wireshark` · `Python` · *the listening art*
-
-<a href="https://github.com/arijeet-57/watcher">enter the manuscript →</a>
-
-</td>
-</tr>
-<tr><td colspan="2">&nbsp;</td></tr>
-<tr>
-<td width="50%" valign="top">
-
-#### ⚗ &nbsp; Liber Velocitatis
-*Experiments in real-time systems and the small magics of speed.*
-
-`Redis` · `Pub/Sub` · *cache as conjuration*
-
-<a href="https://github.com/arijeet-57/liber-velocitatis">enter the manuscript →</a>
-
-</td>
-<td width="50%" valign="top">
-
-#### 📖 &nbsp; Marginalia on Scale
-*A commonplace book — notes on distributed systems, kept in pencil.*
-
-`System Design` · `quiet study` · *the long view*
-
-<a href="https://github.com/arijeet-57/marginalia">enter the manuscript →</a>
-
-</td>
-</tr>
-</table>
-
-<p align="center">❦</p>
-
 ## 🜂 &nbsp; In the Scriptorium
 
 > *Of late, the candle burns over —*
